@@ -1,5 +1,8 @@
 # Football League - Java Project
 This project simulates a football league in Java, reading team and player lists from .txt files. It automatically generates matchdays, displaying results, top scorers, statistics, and the league table after each round.
+The App is in Spanish.
+
+
 
 ### Features
 **Data Reading**: Processes files with team and player information.
